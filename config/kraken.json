@@ -1,0 +1,60 @@
+{
+    "peers": {
+      "KRAKEN07": {
+        "address": "10.194.42.1",
+        "port": 52415,
+        "device_capabilities": {
+          "model": "Linux Box (NVIDIA RTX 6000 ADA GENERATION)",
+          "chip": "NVIDIA RTX 6000 ADA GENERATION",
+          "memory": 49140,
+          "flops": {
+            "fp32": 0,
+            "fp16": 0,
+            "int8": 0
+          }
+        }
+      },
+      "KRAKEN08": {
+        "address": "10.194.40.7",
+        "port": 52415,
+        "device_capabilities": {
+          "model": "Linux Box (NVIDIA RTX 6000 ADA GENERATION)",
+          "chip": "NVIDIA RTX 6000 ADA GENERATION",
+          "memory": 49140,
+          "flops": {
+            "fp32": 0,
+            "fp16": 0,
+            "int8": 0
+          }
+        }
+      },
+      "KRAKEN09": {
+        "address": "10.194.42.11",
+        "port": 52415,
+        "device_capabilities": {
+          "model": "Linux Box (NVIDIA RTX 6000 ADA GENERATION)",
+          "chip": "NVIDIA RTX 6000 ADA GENERATION",
+          "memory": 49140,
+          "flops": {
+            "fp32": 0,
+            "fp16": 0,
+            "int8": 0
+          }
+        }
+      },
+      "KRAKEN10": {
+        "address": "10.194.42.10",
+        "port": 52415,
+        "device_capabilities": {
+          "model": "Linux Box (NVIDIA RTX 6000 ADA GENERATION)",
+          "chip": "NVIDIA RTX 6000 ADA GENERATION",
+          "memory": 49140,
+          "flops": {
+            "fp32": 0,
+            "fp16": 0,
+            "int8": 0
+          }
+        }
+      }
+    }
+  }
